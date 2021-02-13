@@ -3,6 +3,7 @@ list of command line commands
    use powershell in windows
    tab completion -> start typing and hit tab, sometimes will complete it if you use it alot
    up and down arrows -> goes through what has been typed in it before
+   learncodethehardway has a crash course cheat sheet on command line
   
   - pwd - print working directiory -> prints where you currently are in the directory
   - ls - list directory -> shows all of the files in the directory
