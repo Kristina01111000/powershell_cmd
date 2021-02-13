@@ -13,5 +13,7 @@ list of command line commands
 
   - rmdir - remove directory -> deletes a folder
   - mkdir *dir name*- make directory -> makes a folder /*use ls to show the folder*/
-  - touch *name*.txt -> creates an empty txt file 
-  - sudo -> forces the computer to run a command that it doesn't want to run, can really mess up your computer - windows doesn't let it run
+  - touch *name*.txt -> creates an empty txt file -> mac
+  - New-item -ItemType file -> creates new file
+  - Exit - exits the shell wherever you are in the file system
+  - sudo -> super user privlege - forces the computer to run a command that it doesn't want to run, can really mess up your computer - windows doesn't let it run
