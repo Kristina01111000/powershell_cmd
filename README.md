@@ -9,4 +9,6 @@ list of command line commands
   - cd.. - change directory up -> takes you up one directory
   - cd../../.. - change directory up multiple directorys
 
+  - rmdir - remove directory -> deletes a folder
+  - mkdir *dir name*- make directory -> makes a folder
   - sudo -> forces the computer to run a command that it doesn't want to run, can really mess up your computer - windows doesn't let it run
