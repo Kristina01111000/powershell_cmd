@@ -8,3 +8,5 @@ list of command line commands
   - cd~ - change directory home -> takes you to top directory
   - cd.. - change directory up -> takes you up one directory
   - cd../../.. - change directory up multiple directorys
+
+  - sudo -> forces the computer to run a command that it doesn't want to run, can really mess up your computer - windows doesn't let it run
