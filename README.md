@@ -18,3 +18,7 @@ list of command line commands
   - New-item -ItemType file -> creates new file
   - Exit - exits the shell wherever you are in the file system
   - sudo -> super user privlege - forces the computer to run a command that it doesn't want to run, can really mess up your computer - windows doesn't let it run
+
+
+presentation on command line
+https://docs.google.com/presentation/d/1iI8TT0jynQWYFhMQU4d6KgZPz4pWjLJu40vhOmZy20c/edit#slide=id.gbcf533b54e_0_7
