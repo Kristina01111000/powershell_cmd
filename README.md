@@ -6,3 +6,5 @@ list of command line commands
   - ls - list directory -> shows all of the files in the directory
   - cd - change directory -> lets you change which directory you are in
   - cd~ - change directory home -> takes you to top directory
+  - cd.. - change directory up -> takes you up one directory
+  - cd../../.. - change directory up multiple directorys
